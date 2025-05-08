@@ -2,7 +2,7 @@
 
 namespace App\Controllers;
 
-use App\Models\user as Model;
+use App\Models\User as Model;
 
 class User extends BaseController
 {
